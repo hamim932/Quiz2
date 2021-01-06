@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Assignment.Model
+namespace quiz2
 {
     public class Database
     {
